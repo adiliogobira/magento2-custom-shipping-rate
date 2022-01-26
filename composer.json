@@ -22,17 +22,10 @@
     "license": [
         "proprietary"
     ],
-    "homepage": "http://www.magepal.com/",
-    "support": {
-        "email": "support@magepal.com",
-        "issues": "https://github.com/magepal/magento2-custom-shipping-rate/issues/"
-    },
     "authors": [
         {
-            "name": "Renon Stewart",
-            "email": "renon@magepal.com",
-            "homepage": "http://www.magepal.com/",
-            "role": "Leader"
+            "name": "Adilio Gobira",
+            "email": "adiliogobira@gmail.com"
         }
     ],
     "require": {
