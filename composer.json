@@ -17,6 +17,7 @@
         "magento shipping",
         "free shipping"
     ],
+    "minimum-stability": "stable",
     "type": "magento2-module",
     "version": "1.7.0",
     "license": [
