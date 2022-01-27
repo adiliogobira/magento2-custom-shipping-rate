@@ -9,7 +9,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="magepal" sortOrder="400" translate="label">
-            <label>MagePal</label>
+            <label>Frete por distância</label>
         </tab>
         <section id="magepal_customshippingrate" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="5" translate="label">
             <label>Custom Shipping Rate</label>
